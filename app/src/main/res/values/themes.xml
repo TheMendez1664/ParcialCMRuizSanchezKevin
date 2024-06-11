@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ParcialCMRuizSanchezKevin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ParcialCMRuizSanchezKevin" parent="Base.Theme.ParcialCMRuizSanchezKevin" />
+
+    <style name="SquareButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">100dp</item> <!-- Ancho cuadrado deseado -->
+        <item name="android:layout_height">100dp</item> <!-- Altura cuadrada deseada -->
+    </style>
+
+</resources>

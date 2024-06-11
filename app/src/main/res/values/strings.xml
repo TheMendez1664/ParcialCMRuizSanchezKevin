@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">ParcialPractica</string>
+
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="loginimg">Imagen de inicio de sesión</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="contra">Contraseña</string>
+
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+
+    <string name="RegistroUsu">Registro de Usuario</string>
+
+    <string name="nombreUs">Nombre de Usuario</string>
+    <string name="contrUsu">Contraseña</string>
+    <string name="confiContraUsu">Confirmar Contraseña</string>
+
+    <string name="DatosUsu">Datos de Usuario</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="NumeroDocumento">Ingrese número</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="otro">Otro</string>
+    <string name="fechaNaci">Fecha de Nacimiento</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Teléfono</string>
+
+    <string name="BtnRegresar">Regresar</string>
+    <string name="BtnregistrarUsu">Registrar</string>
+
+    <string name="bienvenido">Bienvenido</string>
+
+    <string name="register">Registrar</string>
+    <string name="back">Regresar</string>
+    <string name="document_type">Tipo de documento</string>
+    <string-array name="document_types">
+        <item>DNI</item>
+        <item>PASAPORTE</item>
+        <item>CARNET DE EXTRANJERIA</item>
+    </string-array>
+
+</resources>
