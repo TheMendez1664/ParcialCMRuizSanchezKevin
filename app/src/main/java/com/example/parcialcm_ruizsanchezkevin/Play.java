@@ -115,5 +115,4 @@ public class Play extends AppCompatActivity {
         xPositions.clear();
         oPositions.clear();
     }
-
 }
